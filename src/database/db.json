@@ -1,48 +1,90 @@
 {
-    "workouts": [
-      {
-        "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
-        "name": "Tommy V",
-        "mode": "For Time",
-        "equipment": [
-          "barbell",
-          "rope"
-        ],
-        "exercises": [
-          "21 thrusters",
-          "12 rope climbs, 15 ft",
-          "15 thrusters",
-          "9 rope climbs, 15 ft",
-          "9 thrusters",
-          "6 rope climbs, 15 ft"
-        ],
-        "createdAt": "4/20/2022, 2:21:56 PM",
-        "updatedAt": "4/20/2022, 2:21:56 PM",
-        "trainerTips": [
-          "Split the 21 thrusters as needed",
-          "Try to do the 9 and 6 thrusters unbroken",
-          "RX Weights: 115lb/75lb"
-        ]
-      },
-      {
-        "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
-        "name": "Dead Push-Ups",
-        "mode": "AMRAP 10",
-        "equipment": [
-          "barbell"
-        ],
-        "exercises": [
-          "15 deadlifts",
-          "15 hand-release push-ups"
-        ],
-        "createdAt": "1/25/2022, 1:15:44 PM",
-        "updatedAt": "3/10/2022, 8:21:56 AM",
-        "trainerTips": [
-          "Deadlifts are meant to be light and fast",
-          "Try to aim for unbroken sets",
-          "RX Weights: 135lb/95lb"
-        ]
-      }
-    ]
+  "workouts": [
+    {
+      "id": "61dbae02-c147-4e28-863c-db7bd402b2d6",
+      "name": "Tommy V",
+      "mode": "For Time",
+      "equipment": [
+        "barbell",
+        "rope"
+      ],
+      "exercises": [
+        "21 thrusters",
+        "12 rope climbs, 15 ft",
+        "15 thrusters",
+        "9 rope climbs, 15 ft",
+        "9 thrusters",
+        "6 rope climbs, 15 ft"
+      ],
+      "createdAt": "4/20/2022, 2:21:56 PM",
+      "updatedAt": "4/20/2022, 2:21:56 PM",
+      "trainerTips": [
+        "Split the 21 thrusters as needed",
+        "Try to do the 9 and 6 thrusters unbroken",
+        "RX Weights: 115lb/75lb"
+      ]
+    },
+    {
+      "id": "4a3d9aaa-608c-49a7-a004-66305ad4ab50",
+      "name": "Dead Push-Ups",
+      "mode": "AMRAP 10",
+      "equipment": [
+        "barbell"
+      ],
+      "exercises": [
+        "15 deadlifts",
+        "15 hand-release push-ups"
+      ],
+      "createdAt": "1/25/2022, 1:15:44 PM",
+      "updatedAt": "3/10/2022, 8:21:56 AM",
+      "trainerTips": [
+        "Deadlifts are meant to be light and fast",
+        "Try to aim for unbroken sets",
+        "RX Weights: 135lb/95lb"
+      ]
+    },
+    {
+      "name": "Core Buster PRO",
+      "mode": "AMRAP 20",
+      "equipment": [
+        "rack",
+        "barbell",
+        "abmat"
+      ],
+      "exercises": [
+        "15 toes to bars",
+        "10 thrusters",
+        "30 abmat sit-ups"
+      ],
+      "trainerTips": [
+        "Split your toes to bars into two sets maximum",
+        "Go unbroken on the thrusters",
+        "Take the abmat sit-ups as a chance to normalize your breath"
+      ],
+      "updatedAt": "7/22/2023, 6:10:23 PM"
+    },
+    {
+      "name": "Core Buster PRO MAX 2",
+      "updatedAt": "7/22/2023, 6:24:07 PM"
+    },
+    {
+      "name": "Cyber Push Ups",
+      "mode": "AMRAP 10",
+      "equipment": [
+        "barbell"
+      ],
+      "exercises": [
+        "15 deadlifts",
+        "15 hand-release push-ups"
+      ],
+      "trainerTips": [
+        "Deadlifts are meant to be light and fast",
+        "Try to aim for unbroken sets",
+        "RX Weights: 135lb/95lb"
+      ],
+      "id": "b9b1ac7e-ec00-4301-b3b5-30b172dab2ca",
+      "createdAt": "7/22/2023, 6:35:45 PM",
+      "updatedAt": "7/22/2023, 7:31:12 PM"
     }
-    
+  ]
+}
